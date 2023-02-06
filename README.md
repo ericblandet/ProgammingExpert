@@ -1,1 +1,1 @@
-This repo is just an exercise repo.
+This repo is an exercise repo.
