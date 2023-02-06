@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "first_name": "Eric",
+      "last_name": "Cantona",
+      "mobile_phone_number": "012-123-12-12",
+      "home_phone_number": "",
+      "email_address": "eric.cantona@gmail.com",
+      "address": "Avenue de Morges, 37 -- 1010 Lausanne"
+    },
+    {
+      "first_name": "Emilie",
+      "last_name": "Jolie",
+      "mobile_phone_number": "",
+      "home_phone_number": "",
+      "email_address": "e.jolie@gmail.com",
+      "address": "Avenue de Morges, 37 -- 1010 Lausanne"
+    },
+    {
+      "first_name": "Bob",
+      "last_name": "L'\u00e9ponge",
+      "mobile_phone_number": "1234567890",
+      "home_phone_number": "",
+      "email_address": "Bob@leponge.com",
+      "address": "Gene\u00e8ve"
+    }
+  ]
+}
